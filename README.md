@@ -23,6 +23,7 @@ Install the required packages with:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Data
 
@@ -36,10 +37,8 @@ The main notebook is:
 
 ```text
 OOD_Detection.ipynb
+```
 
-
-### 3. Main Results 섹션
-```markdown
 ## Main Results
 
 The main results include:
