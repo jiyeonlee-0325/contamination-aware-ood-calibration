@@ -23,3 +23,28 @@ Install the required packages with:
 
 ```bash
 pip install -r requirements.txt
+
+## Data
+
+CIFAR-10 and SVHN are public datasets and are downloaded automatically using `torchvision.datasets`.
+
+No private data or private credentials are required.
+
+## How to Reproduce
+
+The main notebook is:
+
+```text
+OOD_Detection.ipynb
+
+
+### 3. Main Results 섹션
+```markdown
+## Main Results
+
+The main results include:
+
+- FPR95 degradation under contaminated calibration
+- FPR95 reduction with fixed lower-tail trimming
+- ID TPR trade-off analysis
+- Adaptive calibration results using IQR and GMM
