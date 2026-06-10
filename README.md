@@ -36,7 +36,7 @@ No private data or private credentials are required.
 The main notebook is:
 
 ```text
-OOD_Detection.ipynb
+Contamination_Aware_OOD_Calibration.ipynb
 ```
 
 ## Main Results
